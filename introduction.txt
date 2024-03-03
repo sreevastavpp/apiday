@@ -1,0 +1,18 @@
+Welcome back to the ship, Captain Simon! We missed you. Ever since the accident 5 years ago, we tried our best to
+scrap the ship from start. This.. is the best we can do. For the sonar device on the ship, we fixed it, but it doesn't
+work like it used to. It detects only the distance, not the direction of a chest.
+
+            1         2         3
+   123456789012345678901234567890123
+1  `~~~~`~~~`~`~`~~~~``~~~~``~`~~`~`  1
+2  ~``~```~X``~`~``~```~``~`C~~~~`~~  2
+3  ``~~~`~~``~~~~~~````~~~~~~~~~~```  3
+4  ~`C`~~```~`~~~`~```~`~`~3~``~```~  4
+   123456789012345678901234567890123
+            1         2         3
+For an example, the X on the screen indicates that the treasure is not found within a distance of 10.
+If a treasure is found within a distance of 10 or less, it will mark the number on the screen.
+While if you found a chest, it will show 'C' on the screen.
+
+Write your command as (x, y) coordinates on the treasure. Example: 31, 5
+To change some mechanics of the game, type 'commands'. To read the introduction again, type 'help'. Else, type 'start'.
